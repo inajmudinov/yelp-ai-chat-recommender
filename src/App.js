@@ -58,7 +58,7 @@ useEffect(() => {
 
   return (
     <div className="App">
-      <h1>Yelp AI Restaurant Recommender</h1>
+      <h1>Yelp AI Recommender</h1>
       <div className="chat-container">
         {messages.map((msg, idx) => (
           <div key={idx} className={`message ${msg.type}`}>
