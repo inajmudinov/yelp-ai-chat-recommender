@@ -1,18 +1,18 @@
-# Yelp AI Restaurant Recommender
+# Yelp AI Recommender
 
-**Built in San Francisco** for the **Yelp AI API Hackathon 2025**
+**Built in San Francisco, California** for the **Yelp AI API Hackathon 2025**
 
-Ask in natural language → get smart restaurant recommendations with ratings, addresses, and **real-time hours**.
+Ask in natural language — get smart local business recommendations with ratings, addresses, and **real-time hours**.
 
 ## Features
-- Natural language chat (e.g., "Vegan pizza under $20")
+- Natural language chat (e.g., "Coffee shops in San Francisco")
 - Multi-turn conversations
 - Business cards with **hours**, rating, location
 - Browser geolocation (falls back to San Francisco)
 - **100% Yelp AI API** — no other data sources
 
 ## Live Demo
-[https://yelp-ai-chat-recommender.vercel.app](https://yelp-ai-chat-recommender.vercel.app)
+[https://yelp-ai-recommender.vercel.app](https://yelp-ai-chat-recommender-jqxu64hih-inajmudinovs-projects.vercel.app)
 
 ## Tech Stack
 - React
